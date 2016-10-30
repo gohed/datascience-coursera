@@ -1,3 +1,6 @@
 [submodule "exploratory-data-analysis/week-1/ExData_Plotting1"]
 	path = exploratory-data-analysis/week-1/ExData_Plotting1
-	url = https://github.com/rdpeng/ExData_Plotting1
+	url = https://github.com/gohed/ExData_Plotting1
+[submodule "exploratory-data-analysis/week-1/--force"]
+	path = exploratory-data-analysis/week-1/--force
+	url = https://github.com/gohed/ExData_Plotting1
